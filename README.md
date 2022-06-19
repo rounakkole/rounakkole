@@ -25,7 +25,7 @@
   
   
 <a href="https://github.com/rounakkole/rounakole">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rounakkole&show_icons=true&locale=en&langs_count=6" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rounakkole&show_icons=true&locale=en&langs_count=3" />
 </a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rounakkole&show_icons=true&locale=en" alt="rounakole" /></p>
